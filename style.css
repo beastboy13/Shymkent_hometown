@@ -42,18 +42,18 @@ body{
 }
 
 .eye-block{
-    margin: 10px;
-    width: 220px;
+    padding: 10px;
+    width: 170px;
 }
 
 .plaza-block{
-    margin: 10px;
-    width: 220px;
+    padding: 10px;
+    width: 170px;
 }
 
 .samsa-block{
-    margin: 10px;
-    width: 220px;
+    padding: 10px;
+    width: 170px;
 }
 
 .act-img{
@@ -71,17 +71,12 @@ body{
     font-weight: bold;
 }
 
-#golden-eye{
-    font-weight: bold;
-    font-style: italic;
-}
-
 #samsa-title{
     font-weight: bold;
 }
 
 .third-block{
-    margin: 50px;
+    padding: 50px;
 }
 
 .card{
